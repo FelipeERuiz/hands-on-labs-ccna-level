@@ -1,3 +1,4 @@
+# DHCP Relay - Guia 
 En este laboratorio debemos configurar el dhcp relay para que el router entregue el dhcp discover a los gateway de cada VLAN.
 
 # Paso 1: Configurar los 3 pool correspondientes a las VLAN
