@@ -1,4 +1,4 @@
-# DHCP Client - GUIA
+# DHCP Client - Guia
 El objetivo de esta laboratorio es configurar DHCP server para que un cliente reciba una dirección ip por dhcp.
 El escenario es el siguiente:
 
